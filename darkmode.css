@@ -33,6 +33,7 @@
         background-image: none;
         margin: 0;
         width: 100%;
+        padding-bottom: 5px;
     }
     .votearrow:after {
         content:"▲";
